@@ -1,3 +1,4 @@
-oranges
-berries
+pineapple
+berries and apple
+cherries
 banana
